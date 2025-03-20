@@ -27,7 +27,7 @@ setuptools.setup(
         "pandas>=2.0",
         "numpy>=1.25",
         "simplejson>=3.17",
-        "networkx>=2.6",
+        "networkx<3.0",
         "scipy>=1.9",
         "python-arango>=7.6",
         "xlsxwriter>=3.0",
